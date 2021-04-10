@@ -37,7 +37,7 @@ __________________________
 
 A few other things about me:
 
-- I lead a team of data scientists at <img alt="Data Science Brigade" width="15px" src="https://blog.dsbrigade.com/content/images/2020/07/dsb-escudo.png" /> [Data Science Brigade](https://www.linkedin.com/company/16179990/admin/) , where we build custom-made machine learning algorithms and data processing pipelines for private and public companies.
+- I lead a team of data scientists at <img alt="Data Science Brigade" width="15px" src="https://blog.dsbrigade.com/content/images/2020/07/dsb-escudo.png" /> [Data Science Brigade](https://github.com/Data-Science-Brigade) , where we build custom-made machine learning algorithms and data processing pipelines for private and public companies.
 
 
 -  During my PhD at <img alt="King's College London" width="15px" src="https://yt3.ggpht.com/ytc/AAUvwnjyVU6LCRFsb7P3jPMB6gewcjP7gh1vnb28XdhF=s88-c-k-c0x00ffffff-no-rj" /> King's College London, I created algorithms to identify clusters in social, political and biological networks <sup>(<span id="dimod"><a href="#dimod">dimod</a></span>, <span id="seqmod"><a href="#seqmod">seqmod</a></span>)</sup>, later extending these algorithms to applications in QSAR, a field of drug discovery <sup>(<span id="oplrareg"><a href="#oplrareg">oplrareg</a></span>, <span id="modsar"><a href="#modsar">modsar</a></span>)</sup>.
