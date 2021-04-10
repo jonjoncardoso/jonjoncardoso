@@ -4,7 +4,7 @@
   <img align="left" alt="Jon Cardoso | Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/twitter.svg" />
 </a>
 
-<a href="www.linkedin.com/in/jonjoncardoso">
+<a href="https://www.linkedin.com/in/jonjoncardoso">
   <img align="left" alt="Jon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linkedin.svg" />
 </a>
 
