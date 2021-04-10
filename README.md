@@ -30,6 +30,7 @@ I am a Researcher and Data Scientist, currently working on patterns of temporal 
 <span class="img_container center" style="display: block;">
     <img alt="test" src="https://user-images.githubusercontent.com/896254/114275223-1947b100-99f8-11eb-8280-e2c5250b275c.png" width="700px" style="display:block; margin-left: auto; margin-right: auto;" title="caption" />
   <br />
+  <sup><span id="seqmod">(<a href="#seqmod">seqmod</a>)</span></sup>
 </span>
 
 __________________________
