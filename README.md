@@ -43,7 +43,7 @@ __________________________
 
 A few other things about me:
 
-- I am currently working on a proposal for an agile method for managing data science projects with the most fantastic people: [@kvmoura](https://github.com/kvmoura) & [@NataliaDelCoco](https://github.com/NataliaDelCoco) & [@Danibrauner](https://github.com/Danibrauner)
+- I am currently working on a proposal for an agile management framework for managing data science projects with the most fantastic people: [@kvmoura](https://github.com/kvmoura) & [@NataliaDelCoco](https://github.com/NataliaDelCoco) & [@Danibrauner](https://github.com/Danibrauner)
 
 - I used to lead a team of data scientists at <img alt="Data Science Brigade" width="15px" src="https://blog.dsbrigade.com/content/images/2020/07/dsb-escudo.png" /> [Data Science Brigade](https://github.com/Data-Science-Brigade) , where we build custom-made machine learning algorithms and data processing pipelines for private and public companies.
 
