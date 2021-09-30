@@ -1,6 +1,10 @@
 ### Hi I'm Jon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
+<a href="https://www.lse.ac.uk/Methodology/People/Academic-Staff/Jonathan-Cardoso-Silva/Jonathan-Cardoso-Silva">
+  <img align="left" alt="Jon's LSE page" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" />
+</a>
+
 <a href="https://twitter.com/jonjon_cardoso">
   <img align="left" alt="Jon Cardoso | Twitter" width="27px" 
        src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png" />
@@ -24,7 +28,9 @@
 
 __________________________
 
-I am a Researcher and Data Scientist, currently working on patterns of temporal network-like collections of data (timelines) and several other machine-learning applications (forecasting<sup>(<span id="covid-model"><a href="#covid-model">1</a></span>)</sup>, NLP, clustering) at [Data Science Brigade](https://github.com/Data-Science-Brigade).
+I am a Researcher and Data Scientist, currently working on latent network modelling at the Department of Methodology and teaching [ST449 - Artificial Intelligence](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/ST/2021_ST449.htm) & [DS202 - Data Science for Social Scientists](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/DS/2021_DS202.htm) in several institutes at London School of Economics and Political Science (Department of Methodology | Data Science Institute | Department of Statistics).
+
+Prior to that, I was working on patterns of temporal network-like collections of data (timelines) and several other machine-learning applications (forecasting<sup>(<span id="covid-model"><a href="#covid-model">1</a></span>)</sup>, NLP, clustering) at [Data Science Brigade](https://github.com/Data-Science-Brigade).
 
 
 <span class="img_container center" style="display: block;">
@@ -37,7 +43,9 @@ __________________________
 
 A few other things about me:
 
-- I lead a team of data scientists at <img alt="Data Science Brigade" width="15px" src="https://blog.dsbrigade.com/content/images/2020/07/dsb-escudo.png" /> [Data Science Brigade](https://github.com/Data-Science-Brigade) , where we build custom-made machine learning algorithms and data processing pipelines for private and public companies.
+- I am currently working on a proposal for an agile method for managing data science projects with the most fantastic people: [@kvmoura](https://github.com/kvmoura) & [@NataliaDelCoco](https://github.com/NataliaDelCoco) & [@Danibrauner](https://github.com/Danibrauner)
+
+- I used to lead a team of data scientists at <img alt="Data Science Brigade" width="15px" src="https://blog.dsbrigade.com/content/images/2020/07/dsb-escudo.png" /> [Data Science Brigade](https://github.com/Data-Science-Brigade) , where we build custom-made machine learning algorithms and data processing pipelines for private and public companies.
 
 
 -  During my PhD at <img alt="King's College London" width="15px" src="https://yt3.ggpht.com/ytc/AAUvwnjyVU6LCRFsb7P3jPMB6gewcjP7gh1vnb28XdhF=s88-c-k-c0x00ffffff-no-rj" /> King's College London, I created algorithms to identify clusters in social, political and biological networks <sup>(<span id="dimod"><a href="#dimod">dimod</a></span>, <span id="seqmod"><a href="#seqmod">seqmod</a></span>)</sup>, later extending these algorithms to applications in QSAR, a field of drug discovery <sup>(<span id="oplrareg"><a href="#oplrareg">oplrareg</a></span>, <span id="modsar"><a href="#modsar">modsar</a></span>)</sup>.
