@@ -28,7 +28,7 @@
 
 __________________________
 
-I am a Researcher and Data Scientist, currently working on latent network modelling at the Department of Methodology and the Data Science Institute at London School of Economics and Political Science.
+I am a Lecturer at the  Researcher and Data Scientist and a Lecturer at the Data Science Institute at London School of Economics and Political Science.
 
 Prior to that, I was working on patterns of temporal network-like collections of data (timelines) and several other machine-learning applications (forecasting<sup>(<span id="covid-model"><a href="#covid-model">1</a></span>)</sup>, NLP, clustering) at [Data Science Brigade](https://github.com/Data-Science-Brigade).
 
