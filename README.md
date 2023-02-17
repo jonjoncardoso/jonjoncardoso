@@ -28,4 +28,4 @@
 
 __________________________
 
-_I'm updating this page_
+_This page was extremely outdated so I'm rethinking it_
