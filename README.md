@@ -40,7 +40,9 @@ Things I am involved in now [^1]:
   - [DS105L — Data for Data Science](https://lse-dsi.github.io/DS105)
   - [DS101L — Fundamentals of Data Science](https://lse-dsi.github.io/DS101)
 - I might be working on a _textbook_ too...
-- Playing with networkx and D3.js visualisations of students course selection pathways, with the help of [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year) and [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Student from Japan).
+- Playing with networkx and D3.js visualisations of students course selection pathways, with the help of my research assistants:
+  - [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year)
+  - [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Student from Japan).
 
 ### ⏭️ Next
 
