@@ -32,4 +32,17 @@ __________________________
 
 
 
-_This page was extremely outdated so I'm rethinking it_
+## NOW
+
+
+### 🧑‍🏫 Teaching
+
+I am running the following courses at [LSE Data Science Institute](https://lse.ac.uk/dsi):
+- [DS105L — Data for Data Science](https://lse-dsi.github.io/DS105)
+- [DS101L — Fundamentals of Data Science](https://lse-dsi.github.io/DS101)
+
+And I am also preparing for the upcoming courses and workshops:
+
+- The Summer School course: [ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204) (taught in R)
+- A revised and more exciting version of [DS202 — Data Science for Social Scientists](https://lse-dsi.github.io/lse-ds202-course-notes/) (start date: late September)
+- A set of online courses about Data Engineering targeted at social scientists (to be announced soon)
