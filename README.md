@@ -1,4 +1,4 @@
-### Hi I'm Jon 
+### Hi 👋 I'm Jon 
 
 
 <a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva">
@@ -32,7 +32,9 @@ __________________________
 
 
 
-## NOW
+## NOW 
+
+Things I am involved in now [^1]:
 
 
 ### 🧑‍🏫 Teaching
@@ -40,9 +42,21 @@ __________________________
 I am running the following courses at [LSE Data Science Institute](https://lse.ac.uk/dsi):
 - [DS105L — Data for Data Science](https://lse-dsi.github.io/DS105)
 - [DS101L — Fundamentals of Data Science](https://lse-dsi.github.io/DS101)
+- I might be working on a textbook too...
 
-And I am also preparing for the upcoming courses and workshops:
+### ⏭️ Next
 
-- The Summer School course: [ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204) (taught in R)
-- A revised and more exciting version of [DS202 — Data Science for Social Scientists](https://lse-dsi.github.io/lse-ds202-course-notes/) (start date: late September)
-- A set of online courses about Data Engineering targeted at social scientists (to be announced soon)
+I am also looking forward to the upcoming courses and workshops:
+
+- In June 2023, I will teach a workshop at [Sunbelt 2023](https://www.insna.org/events/sunbelt-2023) in Portland, Oregon. 
+  - The workshop is about the [VIMuRe](https://latentnetworks.github.io/vimure/) R package [^2].
+- In July 2023, I will teach a Summer School course about data engineering in R at LSE ([ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204))
+- I am working on a revised, even more exciting version of [DS202 — Data Science for Social Scientists](https://lse-dsi.github.io/lse-ds202-course-notes/) for LSE undergraduate students next year.
+- [@kbenoit](http://github.com/kbenoit) and I have been working on a new Online Career Accelerator programme[^3] about **data engineering** for social scientists. 
+  - We expect to launch it in mid-2024.
+
+
+[^1]: Read about the [/now page "movement"](https://sive.rs/nowff)
+[^2]: You can read more about VIMuRe on paper recently published at JRSS A ([De Bacco et al. 2023](https://doi.org/10.1093/jrsssa/qnac004): "_Latent Network Models to Account for Noisy, Multiply Reported Social Network Data._"
+[^3]: Similar in format to the [LSE Data Analytics](https://www.lse.ac.uk/study-at-lse/online-learning/courses/data-analytics) programme
+
