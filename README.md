@@ -44,7 +44,7 @@ Things I am involved in now [^1]:
   - [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year)
   - [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Student from Japan).
 
-### ⏭️ Next
+## NEXT
 
 I am also looking forward to the upcoming courses and workshops:
 
