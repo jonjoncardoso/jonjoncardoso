@@ -39,17 +39,17 @@ Things I am involved in now [^1]:
 - I am running the following courses at [LSE Data Science Institute](https://lse.ac.uk/dsi):
   - [DS105L — Data for Data Science](https://lse-dsi.github.io/DS105)
   - [DS101L — Fundamentals of Data Science](https://lse-dsi.github.io/DS101)
-- I might be working on a _textbook_ too...
 - Playing with networkx and D3.js visualisations of students course selection pathways, with the help of my research assistants:
   - [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year)
   - [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Student from Japan).
+- Working with [Sara Luxmoore](https://github.com/saraluxmoore) on an analysis of how the usage of emojis in Twitter bios reflect people's political identities.
+- I might be working on a _textbook_ too...
 
 ## NEXT
 
 I am also looking forward to the upcoming courses and workshops:
 
-- In June 2023, I will teach a workshop at [Sunbelt 2023](https://www.insna.org/events/sunbelt-2023) in Portland, Oregon. 
-  - The workshop is about the [VIMuRe](https://latentnetworks.github.io/vimure/) R package [^2].
+- In June 2023, I will be in Portland, Oregon for the [**Sunbelt 2023**](https://www.insna.org/events/sunbelt-2023), teaching a workshop about the [VIMuRe](https://latentnetworks.github.io/vimure/) R package[^2] alongside [Daniel Redhead](https://github.com/danielredhead ) & [Elly Power](https://github.com/eapower)  
 - In July 2023, I will teach a Summer School course about data engineering in R at LSE ([ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204))
 - I am working on a revised, even more exciting version of [DS202 — Data Science for Social Scientists](https://lse-dsi.github.io/lse-ds202-course-notes/) for LSE undergraduate students next year.
 - [@kbenoit](http://github.com/kbenoit) and I have been working on a new Online Career Accelerator programme[^3] about **data engineering** for social scientists. 
