@@ -42,7 +42,7 @@ Things I am involved in now [^1]:
 - 📊 Playing with networkx and D3.js visualisations of students course selection pathways, with the help of my research assistants:
   - [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year)
   - [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Course Student from Japan).
-- 📦 I am writing tutorials for the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2], with the help of one my favourite people: [@gabiborges1](https://github.com/gabiborges1)
+- 📦 I am writing tutorials for the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2], with the help of some of my favourite people: [@eapower](https://github.com/eapower) [@gabiborges1](https://github.com/gabiborges1)
 - 😀 Working with [Sara Luxmoore](https://github.com/saraluxmoore) on an analysis of how people's political identities is reflected on the emojis they put in their Twitter bios.
 - 📖 I might be working on a _textbook_ too...
 
