@@ -36,7 +36,8 @@ __________________________
 
 Things I am involved in now [^1]:
 
-- 📦 **Research Software**: I am writing tutorials and maintaining the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2]
+- 📦 **Research Software Engineering**: 
+  - I am writing tutorials and maintaining the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2]
   - 🗣️ In June 2023, I will be in Portland, Oregon for the [**Sunbelt 2023**](https://www.insna.org/events/sunbelt-2023), teaching a workshop about `VIMuRe` alongside [Daniel Redhead](https://github.com/danielredhead ) & [Elly Power](https://github.com/eapower)  
 
 - 🧑‍🏫 **Teaching**:
