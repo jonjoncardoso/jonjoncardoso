@@ -36,23 +36,23 @@ __________________________
 
 Things I am involved in now [^1]:
 
-- 📦 I am writing tutorials for the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2], with the help of some of my favourite people: [@eapower](https://github.com/eapower) [@gabiborges1](https://github.com/gabiborges1). We will run these tutorials in [our workshop](https://www.insna.org/latent-network-modelling-for-networks-based-on-multiple-imperfect-reports-an-introduction-to-the-vimure-package-in-r-and-python) at [Sunbelt 2023](https://www.insna.org/events/sunbelt-2023), Portland Oregon.
-- 📊 Playing with networkx and D3.js visualisations of students course selection pathways, with the help of my research assistants:
-  - [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year)
-  - [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Course Student from Japan).
-- 😀 Working with [Sara Luxmoore](https://github.com/saraluxmoore) on an analysis of how people's political identities is reflected on the emojis they put in their Twitter bios.
-- 🧑‍🏫 Wrapping up the following courses at [LSE Data Science Institute](https://lse.ac.uk/dsi):
+- 📦 **Research Software**: I am writing tutorials and maintaining the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2]
+  - 🗣️ In June 2023, I will be in Portland, Oregon for the [**Sunbelt 2023**](https://www.insna.org/events/sunbelt-2023), teaching a workshop about `VIMuRe` alongside [Daniel Redhead](https://github.com/danielredhead ) & [Elly Power](https://github.com/eapower)  
+
+- 🧑‍🏫 **Teaching**:
+  - In July 2023, I will teach a Summer School course about data engineering in R at LSE ([ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204))
   - [DS105L — Data for Data Science](https://lse-dsi.github.io/DS105)
   - [DS101L — Fundamentals of Data Science](https://lse-dsi.github.io/DS101)
+  - I am working on a revised, more exciting version of [DS202 — Data Science for Social Scientists](https://lse-dsi.github.io/lse-ds202-course-notes/) for LSE undergraduate students next year.
+
+- 📊 **Research**: 
+   - We've been playing with networkx and D3.js visualisations of students course selection pathways, with the help of my research assistants: [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year) and [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Course Student from Japan).
+   - 😀 Working with [Sara Luxmoore](https://github.com/saraluxmoore) on an analysis of how people's political identities is reflected on the emojis they put in their Twitter bios.
+
+
 - 📖 I might be working on a _textbook_ too...
 
-## NEXT
-
-I am also looking forward to the upcoming courses and workshops:
-
-- 🗣️ In June 2023, I will be in Portland, Oregon for the [**Sunbelt 2023**](https://www.insna.org/events/sunbelt-2023), teaching a workshop about the [VIMuRe](https://latentnetworks.github.io/vimure/) R package[^2] alongside [Daniel Redhead](https://github.com/danielredhead ) & [Elly Power](https://github.com/eapower)  
-- 🧑‍🏫 In July 2023, I will teach a Summer School course about data engineering in R at LSE ([ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204))
-- 🧑‍🏫 I am working on a revised, even more exciting version of [DS202 — Data Science for Social Scientists](https://lse-dsi.github.io/lse-ds202-course-notes/) for LSE undergraduate students next year.
+----
 
 
 [^1]: Read about the [/now page "movement"](https://sive.rs/nowff)
