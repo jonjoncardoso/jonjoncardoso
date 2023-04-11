@@ -36,14 +36,14 @@ __________________________
 
 Things I am involved in now [^1]:
 
-- 🧑‍🏫 I am running the following courses at [LSE Data Science Institute](https://lse.ac.uk/dsi):
-  - [DS105L — Data for Data Science](https://lse-dsi.github.io/DS105)
-  - [DS101L — Fundamentals of Data Science](https://lse-dsi.github.io/DS101)
+- 📦 I am writing tutorials for the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2], with the help of some of my favourite people: [@eapower](https://github.com/eapower) [@gabiborges1](https://github.com/gabiborges1). We will run these tutorials in [our workshop](https://www.insna.org/latent-network-modelling-for-networks-based-on-multiple-imperfect-reports-an-introduction-to-the-vimure-package-in-r-and-python) at [Sunbelt 2023](https://www.insna.org/events/sunbelt-2023), Portland Oregon.
 - 📊 Playing with networkx and D3.js visualisations of students course selection pathways, with the help of my research assistants:
   - [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year)
   - [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Course Student from Japan).
-- 📦 I am writing tutorials for the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2], with the help of some of my favourite people: [@eapower](https://github.com/eapower) [@gabiborges1](https://github.com/gabiborges1). We will run these tutorials in [our workshop](https://www.insna.org/latent-network-modelling-for-networks-based-on-multiple-imperfect-reports-an-introduction-to-the-vimure-package-in-r-and-python) at [Sunbelt 2023](https://www.insna.org/events/sunbelt-2023), Portland Oregon.
 - 😀 Working with [Sara Luxmoore](https://github.com/saraluxmoore) on an analysis of how people's political identities is reflected on the emojis they put in their Twitter bios.
+- 🧑‍🏫 Wrapping up the following courses at [LSE Data Science Institute](https://lse.ac.uk/dsi):
+  - [DS105L — Data for Data Science](https://lse-dsi.github.io/DS105)
+  - [DS101L — Fundamentals of Data Science](https://lse-dsi.github.io/DS101)
 - 📖 I might be working on a _textbook_ too...
 
 ## NEXT
