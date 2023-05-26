@@ -9,7 +9,7 @@
   <img align="left" alt="Jon's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
 </a>
 
-<a href="[https://twitter.com/jonjon_cardoso](https://mathstodon.xyz/@jonjoncardoso)">
+<a rel="me" href="https://datasci.social/@jonjoncardoso">
   <img align="left" alt="Jon Cardoso | Mastodon" width="27px" 
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/216px-Mastodon_Logotype_%28Simple%29.svg.png" />
 </a>
