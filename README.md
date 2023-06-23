@@ -27,6 +27,8 @@ __________________________
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110434003198028743?domain=https%3A%2F%2Fdatasci.social&style=social)](https://datasci.social/@jonjoncardoso)
 
+Webpage: [https://jonjoncardoso.github.io/](https://jonjoncardoso.github.io/)
+
 ## NOW 
 
 Things I am involved in now [^1]:
