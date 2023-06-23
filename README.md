@@ -33,19 +33,26 @@ _I teach people how to transform markdown into webpages, and I spend a lot of ti
 
 Things I am involved in now [^1]:
 
-- 📦 **Research Software Engineering**: 
+- 📊 **Research**:
+
+   - 'Can Large Language Models replace traditional text mining workflow?', a summer research project inspired by the reading of [Meng 2021](http://arxiv.org/abs/2212.09271). Collaborators:
+     - Prof. [Ken Benoit](https://kenbenoit.net/)
+     - [Terry Zhou](github.com/tz1211) - research assistant
+     - [Jinshuai Ma](github.com/Mayazure) - our cloud computing support
+ 
+   - #DataViz of undergraduate course selection pathways - to visualise how students choose and navigate through their optional course at LSE. Currently with the help of my research assistants:
+     - [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year) and
+     - [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Course Student from Japan).
+
+   - 😀 Working with [Sara Luxmoore](https://github.com/saraluxmoore) on an analysis of how people's political identities is reflected on the emojis they put in their Twitter bios.
+
+- 📦 **Software Engineering**: 
   - I am writing tutorials and maintaining the [VIMuRe](https://latentnetworks.github.io/vimure/) package[^2]
   - 🗣️ In June 2023, I will be in Portland, Oregon for the [**Sunbelt 2023**](https://www.insna.org/events/sunbelt-2023), teaching a workshop about `VIMuRe` alongside [Daniel Redhead](https://github.com/danielredhead ) & [Elly Power](https://github.com/eapower)  
 
 - 🧑‍🏫 **Teaching**:
   - In July 2023, I will teach a Summer School course about data engineering in R at LSE ([ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204))
-  - [DS105L — Data for Data Science](https://lse-dsi.github.io/DS105)
-  - [DS101L — Fundamentals of Data Science](https://lse-dsi.github.io/DS101)
-  - I am working on a revised, more exciting version of [DS202 — Data Science for Social Scientists](https://lse-dsi.github.io/lse-ds202-course-notes/) for LSE undergraduate students next year.
-
-- 📊 **Research**: 
-   - We've been playing with networkx and D3.js visualisations of students course selection pathways, with the help of my research assistants: [Prakrit Jayakumar](https://github.com/prakritj) (LSE BSc in Econ 2nd Year) and [Ethan Virtudazo](https://github.com/ethanvirtudazo) (LSE General Course Student from Japan).
-   - 😀 Working with [Sara Luxmoore](https://github.com/saraluxmoore) on an analysis of how people's political identities is reflected on the emojis they put in their Twitter bios.
+  - Working on [quarto-template-for-university-courses](https://github.com/jonjoncardoso/quarto-template-for-university-courses) for my upcoming undergraduate courses at LSE in 2023/24.
 
 
 - 📖 I might be working on a _textbook_ too...
