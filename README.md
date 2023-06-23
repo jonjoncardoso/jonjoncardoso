@@ -27,8 +27,6 @@ __________________________
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110434003198028743?domain=https%3A%2F%2Fdatasci.social&style=social)](https://datasci.social/@jonjoncardoso)
 
-_I teach people how to transform markdown into webpages, and I spend a lot of time working with Quarto webpages. But when it comes to creating an HTML page for myself, I just can't seem to find the motivation. This GitHub README is the closest thing I have to a personal webpage._
-
 ## NOW 
 
 Things I am involved in now [^1]:
