@@ -29,9 +29,6 @@ __________________________
 
 Webpage: [https://jonjoncardoso.github.io/](https://jonjoncardoso.github.io/)
 
----
-title: "NOW Page"
----
 
 Things I am involved in now [^1]:
 
