@@ -34,6 +34,14 @@ Things I am involved in now [^1]:
 
 ## 📊 **Research**:
 
+### Project: GENIAL - GEN<font color='#D55816'>IA</font>L: <font color='#D55816'>GEN</font>erative <font color='#D55816'>AI</font> Tools as a Catalyst for <font color='#D55816'>L</font>earning
+
+<img src="https://github.com/LSE-DSI/genial/assets/896254/413df2b5-cabd-4fbf-94fa-3d50dcefbd22"  style="object-fit: cover;width:8em;height:8em;border-radius: 70%;"/>
+
+A focus group led by my colleague, Dr [Marcos Barreto](https://marcosebarreto.github.io/) ([LSE Department of Statistics](https://lse.ac.uk/statistics)), and I. We want to explore the practical applications of Generative AI tools for education and understand how they might specifically enhance (or hurt) programming skills and critical thinking. We will design exercises and learning materials and test them on several undergraduate and a graduate course at LSE this coming academic year.
+
+You can read more about it on the dedicated website [here](http://lse-dsi.github.io/genial).
+
 ### Project: 'Can Large Language Models replace traditional text mining workflow?'
 
 A summer research project inspired by the reading of [Meng 2021](http://arxiv.org/abs/2212.09271). 
@@ -44,7 +52,6 @@ Collaborators:
 - Research Assistant: [Terry Zhou](github.com/tz1211) (BSc in Politics and Data Science, LSE)
 - Cloud Computing Support: [Jinshuai Ma](github.com/Mayazure)
  
-
 ### Project: Course Selection Pathways at LSE
 
 A dataviz project to visualise and understand how students choose and navigate through their optional courses at LSE. 
@@ -80,11 +87,9 @@ You can read about VIMuRe on paper recently published at JRSS A ([De Bacco et al
 
 ## 🧑‍🏫 **Teaching**:
 
-I have been preparing material for the upcoming academic year at LSE. I teach the following courses: [DS101](https://lse-dsi.github.io/DS101), [DS105](https://lse-dsi.github.io/DS105), [DS202](https://lse-dsi.github.io/lse-ds202-course-notes).
+- I just finished teaching Summer School course about data engineering in R at LSE ([ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204)).
 
-On top of that:
-
-- In July 2023, I will teach a Summer School course about data engineering in R at LSE ([ME204 — Data Engineering for the Social World](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me204))
+I have been preparing material for the upcoming academic year at LSE. I will teach the following courses in the 2023/24 academic year: [DS105](https://lse-dsi.github.io/DS105) and [DS202](https://lse-dsi.github.io/lse-ds202-course-notes).
 
 - I have been working on [quarto-template-for-university-courses](https://github.com/jonjoncardoso/quarto-template-for-university-courses) for my upcoming undergraduate courses at LSE in 2023/24.
 
