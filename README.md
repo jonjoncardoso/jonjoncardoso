@@ -42,15 +42,17 @@ A focus group led by my colleague, Dr [Marcos Barreto](https://marcosebarreto.gi
 
 You can read more about it on the dedicated website [here](http://lse-dsi.github.io/genial).
 
-### Project: 'Can Large Language Models replace traditional text mining workflow?'
+### Project: DISCORDIA - Uncovering Patterns of Parliamentary Dissent
 
-A summer research project inspired by the reading of [Meng 2021](http://arxiv.org/abs/2212.09271). 
+Led by me and a dedicated team of research assistants, this project explores the fascinating realm of political dissent within the UK Parliament. We aim to identify and understand the indicators in MPs' speeches at the House of Commons that may suggest a likelihood of rebelling against party lines. Using a combination of data science and political analysis, our goal is to gain insights into the patterns of parliamentary rebellion. We're experimenting with various machine learning models and investigating the use of explainable AI to enhance our analysis. The findings from this project are expected to shed light on the nuances of political discourse.
+
+🖇️ A dedicated website will soon appear here soon
 
 Collaborators:
 
 - Joint research with Prof. [Ken Benoit](https://kenbenoit.net/).
-- Research Assistant: [Terry Zhou](github.com/tz1211) (BSc in Politics and Data Science, LSE)
-- Cloud Computing Support: [Jinshuai Ma](github.com/Mayazure)
+- Research Assistant: [Terry Zhou](https://github.com/tz1211) (2nd Year BSc in Politics and Data Science, LSE)
+- Research Assistant: [Nikolai Semikhatov](https://github.com/Sevnhutsjr) (2nd Year BSc in Politics and Data Science, LSE)
  
 ### Project: Course Selection Pathways at LSE
 
@@ -67,11 +69,14 @@ Past collaborators:
 - [Ben Steiner](https://github.com/BSteiner1)
 - [Mike Christodoulou](https://github.com/mdc2002)
 
-### Project: Emojis and Political Identities
+### Project: 🇵🇱🤝🇪🇺 Emoji, Language Games and Political Polarisation
 
 What can the emojis you use in your social media profile reveal about your political values? 🤔
 
-Read more about this project and preliminary findings [here](https://www.linkedin.com/posts/jonjoncardoso_emojis-talk-politics-activity-7072964675365208064-Ng1u)
+Read our first paper:
+
+> Luxmoore, Sara, Jonathan Cardoso Silva, and Pedro Ramaciotti. ‘[Emoji, Language Games and Political Polarisation](https://hal.science/hal-04297824)’. In Fourth Conference on Computational Humanities Research. Paris, France, 2023.
+
 
 Co-authors:
 
