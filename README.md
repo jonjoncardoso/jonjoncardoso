@@ -44,6 +44,8 @@ You can read more about it on the dedicated website [here](http://lse-dsi.github
 
 ### Project: DISCORDIA - Uncovering Patterns of Parliamentary Dissent
 
+<img src="https://github.com/jonjoncardoso/jonjoncardoso/assets/896254/8b540043-bc9a-47f5-bd4f-8eb6ea09bfbb" style="object-fit: cover;width:8em;height:8em;border-radius: 70%;"/>
+
 Led by me and a dedicated team of research assistants, this project explores the fascinating realm of political dissent within the UK Parliament. We aim to identify and understand the indicators in MPs' speeches at the House of Commons that may suggest a likelihood of rebelling against party lines. Using a combination of data science and political analysis, our goal is to gain insights into the patterns of parliamentary rebellion. We're experimenting with various machine learning models and investigating the use of explainable AI to enhance our analysis. The findings from this project are expected to shed light on the nuances of political discourse.
 
 🖇️ A dedicated website will soon appear here soon
