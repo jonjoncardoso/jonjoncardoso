@@ -1,9 +1,5 @@
 <!-- GitHub README: use HTML attributes (align, width, valign) and <font color>; inline style/class are stripped. Colours mirror scss/_tokens.scss and .genial-ia (#D55816) in scss/_site-landing.scss. -->
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 <p><i>Searching for the texture of thought…</i></p>
 
 <h3>Dr Jon Cardoso-Silva</h3>
@@ -13,45 +9,36 @@
 
 <p>Data science education, generative AI in teaching, and research at LSE. I teach data science and study how students learn when generative AI is in the room.</p>
 
+<p><sub><b>AI in Education Fellow</b> · 2025–2027</sub></p>
+
 <p>
-<a href="https://jonjoncardoso.github.io"><img src="https://img.shields.io/badge/Website-jonjoncardoso.github.io-001360?style=flat-square" alt="Website" /></a>
-<a href="https://jonjoncardoso.github.io/blog/"><img src="https://img.shields.io/badge/Blog-Posts-a9371b?style=flat-square" alt="Blog" /></a>
-<a href="https://jonjoncardoso.github.io/now.html"><img src="https://img.shields.io/badge/Now-Page-fbbc38?style=flat-square&labelColor=2b1c00" alt="Now page" /></a>
+<a href="https://jonjoncardoso.github.io"><img src="https://img.shields.io/badge/Website-jonjoncardoso.github.io-001360?style=flat-square" alt="Website" title="Website" /></a>
+<a href="https://jonjoncardoso.github.io/blog/"><img src="https://img.shields.io/badge/Blog-Posts-a9371b?style=flat-square" alt="Blog" title="Blog" /></a>
+<a href="https://jonjoncardoso.github.io/now.html"><img src="https://img.shields.io/badge/Now-Page-fbbc38?style=flat-square&labelColor=2b1c00" alt="Now page" title="Now page" /></a>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI_in_Education-001360?style=flat-square" alt="Badge: Generative AI in Education" />
-<img src="https://img.shields.io/badge/Data_Science_Education-a9371b?style=flat-square" alt="Badge: Data Science Education" />
-<img src="https://img.shields.io/badge/Evidence--based_Teaching-fbbc38?style=flat-square&labelColor=2b1c00" alt="Badge: Evidence-based Teaching" />
+<img src="https://img.shields.io/badge/Generative_AI_in_Education-001360?style=flat-square" alt="Badge: Generative AI in Education" title="Generative AI in Education" />
+<img src="https://img.shields.io/badge/Data_Science_Education-a9371b?style=flat-square" alt="Badge: Data Science Education" title="Data Science Education" />
+<img src="https://img.shields.io/badge/Evidence--based_Teaching-fbbc38?style=flat-square&labelColor=2b1c00" alt="Badge: Evidence-based Teaching" title="Evidence-based Teaching" />
 </p>
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/jonjoncardoso/jonjoncardoso.github.io/main/images/Cardoso-Silva_Jon.jpeg" width="220" alt="Portrait of Jon Cardoso-Silva" />
-
-<p><sub><b>AI in Education Fellow</b><br/>2025–2027</sub></p>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
-<a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" width="26" height="26" alt="LSE" /></a>
+<a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" width="26" height="26" alt="LSE staff profile" title="LSE staff profile" /></a>
 &nbsp;
-<a href="https://jonjoncardoso.github.io"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="24" height="24" alt="Website" /></a>
+<a href="https://jonjoncardoso.github.io"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="24" height="24" alt="Personal website" title="Personal website" /></a>
 &nbsp;
-<a href="https://jonjoncardoso.github.io/blog/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rss.svg" width="24" height="24" alt="Blog RSS" /></a>
+<a href="https://jonjoncardoso.github.io/blog/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rss.svg" width="24" height="24" alt="Blog RSS feed" title="Blog RSS feed" /></a>
 &nbsp;
-<a href="https://datasci.social/@jonjoncardoso" rel="me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1024px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="26" height="26" alt="Mastodon" /></a>
+<a href="https://datasci.social/@jonjoncardoso" rel="me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1024px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="26" height="26" alt="Mastodon" title="Mastodon (datasci.social)" /></a>
 &nbsp;
-<a href="https://github.com/jonjoncardoso"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="24" height="24" alt="GitHub" /></a>
+<a href="https://github.com/jonjoncardoso"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="24" height="24" alt="GitHub" title="GitHub" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/jonjoncardoso/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="26" height="26" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jonjoncardoso/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="26" height="26" alt="LinkedIn" title="LinkedIn" /></a>
 &nbsp;
-<a href="https://scholar.google.co.uk/citations?user=7QrW-s4AAAAJ&amp;hl=en"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="24" height="24" alt="Google Scholar" /></a>
+<a href="https://scholar.google.co.uk/citations?user=7QrW-s4AAAAJ&amp;hl=en"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="24" height="24" alt="Google Scholar" title="Google Scholar" /></a>
 &nbsp;
-<a href="mailto:J.Cardoso-Silva@lse.ac.uk"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-fill.svg" width="24" height="24" alt="Email (LSE)" /></a>
+<a href="mailto:J.Cardoso-Silva@lse.ac.uk"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-fill.svg" width="24" height="24" alt="Email (LSE)" title="Email: J.Cardoso-Silva@lse.ac.uk" /></a>
 </p>
 
 ---
@@ -76,7 +63,7 @@
 </table>
 
 <p align="center">
-<a href="https://jonjoncardoso.github.io/academic.html"><img src="https://img.shields.io/badge/Publications_%26_talks-Academic_page-001360?style=for-the-badge" alt="Publications and talks" /></a>
+<a href="https://jonjoncardoso.github.io/academic.html"><img src="https://img.shields.io/badge/Publications_%26_talks-Academic_page-001360?style=for-the-badge" alt="Publications and talks — academic page" title="Publications and talks — academic page" /></a>
 </p>
 
 ---
