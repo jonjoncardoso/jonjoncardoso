@@ -1,59 +1,84 @@
-<span style="font-size:1.45em; font-style: bold">Hi 👋 I'm Jon</span> 
+<!-- GitHub README: use HTML attributes (align, width, valign) and <font color>; inline style/class are stripped. Colours mirror scss/_tokens.scss and .genial-ia (#D55816) in scss/_site-landing.scss. -->
 
-<a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva">
-  <img align="left" alt="Jon's LSE page" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" />
-</a>
+<table>
+<tr>
+<td width="62%" valign="top">
 
-<a href="https://www.linkedin.com/in/jonjoncardoso">
-  <img align="left" alt="Jon's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
-</a>
+<p><i>Searching for the texture of thought…</i></p>
 
-<a href="https://scholar.google.co.uk/citations?user=7QrW-s4AAAAJ&hl=en">
-  <img align="left" alt="Jon's Gmail" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlescholar.svg" />
-</a>
+<h3>Dr Jon Cardoso-Silva</h3>
 
-<a href="https://www.researchgate.net/profile/Jonathan-Cardoso-Silva">
-  <img align="left" alt="Jon's Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png" />
-</a>
+<p>Assistant Professor (Education), Department of Methodology, <a href="https://www.lse.ac.uk/">LSE</a>.<br/>
+<sup>*</sup> Promoted to Associate Professor (Education) from August 2026.</p>
 
-<a href="mailto:jonathan.car.silva@gmail.com">
-  <img align="left" alt="Jon's Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" />
-</a>
+<p>Data science education, generative AI in teaching, and research at LSE. I teach data science and study how students learn when generative AI is in the room.</p>
 
-<br />
-<br />
+<p>
+<a href="https://jonjoncardoso.github.io"><img src="https://img.shields.io/badge/Website-jonjoncardoso.github.io-001360?style=flat-square" alt="Website" /></a>
+<a href="https://jonjoncardoso.github.io/blog/"><img src="https://img.shields.io/badge/Blog-Posts-a9371b?style=flat-square" alt="Blog" /></a>
+<a href="https://jonjoncardoso.github.io/now.html"><img src="https://img.shields.io/badge/Now-Page-fbbc38?style=flat-square&labelColor=2b1c00" alt="Now page" /></a>
+</p>
 
-Assistant Professor at the LSE Data Science Institute, focusing on data science education and GenAI integration in higher education. I develop and teach [DS105](https://lse-dsi.github.io/DS105) (Data for Data Science) and DS205 (Advanced Data Manipulation).
+<p>
+<img src="https://img.shields.io/badge/Generative_AI_in_Education-001360?style=flat-square" alt="Badge: Generative AI in Education" />
+<img src="https://img.shields.io/badge/Data_Science_Education-a9371b?style=flat-square" alt="Badge: Data Science Education" />
+<img src="https://img.shields.io/badge/Evidence--based_Teaching-fbbc38?style=flat-square&labelColor=2b1c00" alt="Badge: Evidence-based Teaching" />
+</p>
 
-## Current Projects
+</td>
+<td width="38%" valign="top" align="center">
 
-### 🤖 GENIAL: GenAI Tools for Learning
+<img src="https://raw.githubusercontent.com/jonjoncardoso/jonjoncardoso.github.io/main/images/Cardoso-Silva_Jon.jpeg" width="220" alt="Portrait of Jon Cardoso-Silva" />
 
-Investigating how ChatGPT and other GenAI tools affect higher education and critical thinking development.
+<p><sub><b>AI in Education Fellow</b><br/>2025–2027</sub></p>
 
-- [Project Site](http://lse-dsi.github.io/genial)
-- Full empirical study forthcoming
+</td>
+</tr>
+</table>
 
-**Recent publication:**
+<p align="center">
+<a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" width="26" height="26" alt="LSE" /></a>
+&nbsp;
+<a href="https://jonjoncardoso.github.io"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="24" height="24" alt="Website" /></a>
+&nbsp;
+<a href="https://jonjoncardoso.github.io/blog/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rss.svg" width="24" height="24" alt="Blog RSS" /></a>
+&nbsp;
+<a href="https://datasci.social/@jonjoncardoso" rel="me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1024px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="26" height="26" alt="Mastodon" /></a>
+&nbsp;
+<a href="https://github.com/jonjoncardoso"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="24" height="24" alt="GitHub" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jonjoncardoso/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="26" height="26" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://scholar.google.co.uk/citations?user=7QrW-s4AAAAJ&amp;hl=en"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="24" height="24" alt="Google Scholar" /></a>
+&nbsp;
+<a href="mailto:J.Cardoso-Silva@lse.ac.uk"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-fill.svg" width="24" height="24" alt="Email (LSE)" /></a>
+</p>
 
-Sallai, D., Cardoso-Silva, J., Barreto, M., Panero, F., Berrada, G. and Luxmoore, S. (2024) 
-'[Approach Generative AI Tools Proactively or Risk Bypassing the Learning Process in Higher Education](https://doi.org/10.31389/lseppr.108)', 
-*LSE Public Policy Review*, 3(3), p. 7. https://doi.org/10.31389/lseppr.108
+---
 
-### 🔍 ChatLSE
-An open-source RAG implementation for LSE documentation search and retrieval:
-- Query rewriting for natural conversation flow
-- Context-aware follow-up handling
-- Scoped response filtering
-- [Repository](https://github.com/LSE-DSI/chat-lse)
+<h2><font color="#a9371b">Now</font></h2>
 
-### 🔗 Other Stuff
+<table>
+<tr valign="top">
+<td width="28"><b>◎</b></td>
+<td><b>AI and Education Fellowship (2025–2027).</b> <a href="https://info.lse.ac.uk/staff/ESE/AI-Fellowships-call">Fellowship programme</a>: building a <i>proactive</i> GenAI tutor for <a href="https://lse-dsi.github.io/DS105/">DS105</a> with an XML-based skills taxonomy aligned to each week’s objectives. I tested a custom, temporally aware bot in 2025–26; I am now in initial data cleaning and analysis. From September to December 2026 (teaching buyout) I develop the proactive version, test it on <a href="https://lse-dsi.github.io/DS202/">DS202</a> in Autumn 2026/27, then deploy more fully in DS105 in Winter 2026/27 (Jan–Mar 2027).</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr valign="top">
+<td width="28"><b>◎</b></td>
+<td><b>GEN<font color="#D55816">IA</font>L</b> (<a href="https://lse-dsi.github.io/genial">project site</a>). Co-led with <a href="https://marcosebarreto.github.io/">Marcos Barreto</a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/dsallai">Dorottya Sallai</a>, and <a href="https://www.lse.ac.uk/school-of-public-policy/people/Casey-Kearney">Casey Kearney</a>; funded by the LSE Eden Centre and the LSE Data Science Institute. Our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674422">GENIAL Framework</a> maps student–GenAI engagement from ChatGPT logs and Git histories onto Kolb’s experiential learning cycle. I am using it in the new fellowship research cycle (2025–2027).</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr valign="top">
+<td width="28"><b>◎</b></td>
+<td><b>Teaching.</b> I convene <a href="https://lse-dsi.github.io/DS105/">DS105</a> (Data for Data Science), <a href="https://lse-dsi.github.io/DS205/">DS205</a> (Advanced Data Manipulation), and <a href="https://lse-dsi.github.io/ME204/">ME204</a> (Data Engineering for the Social World, summer school) at the <a href="https://www.lse.ac.uk/DSI">LSE Data Science Institute</a>. I also collaborated on the <a href="https://www.lse.ac.uk/study-at-lse/executive-education/programmes/ai-leadership-accelerator">AI Leadership Accelerator</a>.</td>
+</tr>
+</table>
 
-- VIMuRe: Statistical methods for network analysis ([Python](https://github.com/latentnetworks/vimure-python) | [R](https://github.com/latentnetworks/vimure))
-- I share templates I use in my Quarto-powered courses here [Quarto Course Template](https://github.com/jonjoncardoso/quarto-template-for-university-courses) (in need of a bit of TLC)
-- Student Research Supervision: Parliamentary discourse analysis (DISCORDIA) + Course selection pathway visualisation (internal project with LSE Planning Division)
+<p align="center">
+<a href="https://jonjoncardoso.github.io/academic.html"><img src="https://img.shields.io/badge/Publications_%26_talks-Academic_page-001360?style=for-the-badge" alt="Publications and talks" /></a>
+</p>
 
-## Recognition
-- LSESU Teaching Award for Feedback & Communication (2023)
+---
 
-Last Updated: 30 December 2024
+<p align="center"><sub>Inspired by the <a href="https://sive.rs/nowff">/now page</a> movement.</sub></p>
