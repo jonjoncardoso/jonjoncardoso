@@ -5,7 +5,7 @@
 <h3>Dr Jon Cardoso-Silva</h3>
 
 <p>Assistant Professor (Education), Department of Methodology, <a href="https://www.lse.ac.uk/">LSE</a>.<br/>
-<sup>*</sup> Promoted to Associate Professor (Education) from August 2026.</p>
+<sup>*</sup> <sup>Promoted to Associate Professor (Education) from August 2026.</sup></p>
 
 <p>Data science education, generative AI in teaching, and research at LSE. I teach data science and study how students learn when generative AI is in the room.</p>
 
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Evidence--based_Teaching-fbbc38?style=flat-square&labelColor=2b1c00" alt="Badge: Evidence-based Teaching" title="Evidence-based Teaching" />
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" width="26" height="26" alt="LSE staff profile" title="LSE staff profile" /></a>
 &nbsp;
 <a href="https://jonjoncardoso.github.io"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="24" height="24" alt="Personal website" title="Personal website" /></a>
