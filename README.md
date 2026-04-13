@@ -12,9 +12,8 @@
 <p><sub><b>AI in Education Fellow</b> · 2025–2027</sub></p>
 
 <p>
-<a href="https://jonjoncardoso.github.io"><img src="https://img.shields.io/badge/Website-jonjoncardoso.github.io-001360?style=flat-square" alt="Website" title="Website" /></a>
-<a href="https://jonjoncardoso.github.io/blog/"><img src="https://img.shields.io/badge/Blog-Posts-a9371b?style=flat-square" alt="Blog" title="Blog" /></a>
-<a href="https://jonjoncardoso.github.io/now.html"><img src="https://img.shields.io/badge/Now-Page-fbbc38?style=flat-square&labelColor=2b1c00" alt="Now page" title="Now page" /></a>
+🌐<a href="https://jonjoncardoso.github.io"> Website </a>|
+💭<a href="https://jonjoncardoso.github.io/blog/">Blog</a>
 </p>
 
 <p>
@@ -24,15 +23,13 @@
 </p>
 
 <p align="left">
-<a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" width="26" height="26" alt="LSE staff profile" title="LSE staff profile" /></a>
+<a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg" width="26" height="26" alt="LSE staff profile" title="LSE staff profile" /></a>
 &nbsp;
 <a href="https://jonjoncardoso.github.io"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="24" height="24" alt="Personal website" title="Personal website" /></a>
 &nbsp;
 <a href="https://jonjoncardoso.github.io/blog/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rss.svg" width="24" height="24" alt="Blog RSS feed" title="Blog RSS feed" /></a>
 &nbsp;
-<a href="https://datasci.social/@jonjoncardoso" rel="me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1024px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="26" height="26" alt="Mastodon" title="Mastodon (datasci.social)" /></a>
-&nbsp;
-<a href="https://github.com/jonjoncardoso"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="24" height="24" alt="GitHub" title="GitHub" /></a>
+<a href="https://datasci.social/@jonjoncardoso" rel="me"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="26" height="26" alt="Mastodon" title="Mastodon (datasci.social)" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jonjoncardoso/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="26" height="26" alt="LinkedIn" title="LinkedIn" /></a>
 &nbsp;
