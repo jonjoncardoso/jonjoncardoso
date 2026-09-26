@@ -19,7 +19,6 @@ I am one of LSE's fellows on the <a href="https://info.lse.ac.uk/staff/ESE/AI-Fe
 <p>
 <img src="https://img.shields.io/badge/Generative_AI_in_Education-001360?style=flat-square" alt="Badge: Generative AI in Education" title="Generative AI in Education" />
 <img src="https://img.shields.io/badge/Data_Science_Education-a9371b?style=flat-square" alt="Badge: Data Science Education" title="Data Science Education" />
-<img src="https://img.shields.io/badge/Teaching_grounded_in_evidence-fbbc38?style=flat-square&labelColor=2b1c00" alt="Badge: Teaching grounded in evidence" title="Teaching grounded in evidence" />
 </p>
 
 <p align="left">
@@ -31,7 +30,7 @@ I am one of LSE's fellows on the <a href="https://info.lse.ac.uk/staff/ESE/AI-Fe
 &nbsp;
 <a href="https://datasci.social/@jonjoncardoso" rel="me"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="26" height="26" alt="Mastodon" title="Mastodon (datasci.social)" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/jonjoncardoso/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="26" height="26" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jonjoncardoso/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@11.4.0/icons/linkedin.svg" width="24" height="24" alt="LinkedIn" title="LinkedIn" /></a>
 &nbsp;
 <a href="https://scholar.google.co.uk/citations?user=7QrW-s4AAAAJ&amp;hl=en"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="24" height="24" alt="Google Scholar" title="Google Scholar" /></a>
 &nbsp;
@@ -45,17 +44,17 @@ I am one of LSE's fellows on the <a href="https://info.lse.ac.uk/staff/ESE/AI-Fe
 <table>
 <tr valign="top">
 <td width="28"><b>◎</b></td>
-<td><b>AI and Education Fellowship (2025–2027).</b> <a href="https://info.lse.ac.uk/staff/ESE/AI-Fellowships-call">Fellowship programme</a>: building a <i>proactive</i> GenAI tutor for <a href="https://lse-dsi.github.io/DS105/">MY105W</a> with an XML skills taxonomy aligned to each week’s objectives. I tested a custom, temporally aware bot in 2025–26 (<a href="https://jonjoncardoso.github.io/talks/2026-07-09-imperial-genai-shorts.html">Imperial GenAI Shorts talk</a>) and am in initial data cleaning and analysis. This Autumn Term (teaching buyout, Sep–Dec 2026) I develop the proactive version, test it first with <a href="https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY202A.htm">MY202A</a> students, then deploy more fully in MY105W in Winter 2026/27 (Jan–Mar 2027).</td>
+<td><b>AI and Education Fellowship (2025–2027).</b> I am one of LSE's fellows on the <a href="https://info.lse.ac.uk/staff/ESE/AI-Fellowships-call">AI and Education Fellowship</a>, building a <i>proactive</i> GenAI tutor for <a href="https://lse-dsi.github.io/DS105/">MY105W</a> that adapts to where students are in the weekly learning progression. I have already built a temporally aware bot and tested it with my students in 2025–26 (<a href="https://jonjoncardoso.github.io/talks/2026-07-09-imperial-genai-shorts.html">Imperial GenAI Shorts talk</a>); I am currently going through the initial data cleaning and analysis. During my teaching buyout this Autumn Term (September to December 2026), I am developing the proactive version. I am testing it first with our <a href="https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY202A.htm">MY202A</a> students this term, and I will then deploy a fuller version in MY105W in the Winter Term (January to March 2027).</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr valign="top">
 <td width="28"><b>◎</b></td>
-<td><b>GEN<font color="#D55816">IA</font>L</b> (<a href="https://lse-dsi.github.io/genial">project site</a>). Led jointly with <a href="https://marcosebarreto.github.io/">Marcos Barreto</a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/dsallai">Dorottya Sallai</a>, and <a href="https://www.lse.ac.uk/school-of-public-policy/people/Casey-Kearney">Casey Kearney</a>; funded by the LSE Eden Centre and the LSE Data Science Institute. Our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674422">GENIAL Framework</a> maps student–GenAI engagement from ChatGPT logs and Git histories onto Kolb’s experiential learning cycle. I am using it in the new fellowship research cycle (2025–2027).</td>
+<td><b>GEN<font color="#D55816">IA</font>L</b> (<a href="https://lse-dsi.github.io/genial">project site</a>). Led jointly with <a href="https://marcosebarreto.github.io/">Marcos Barreto</a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/dsallai">Dorottya Sallai</a>, and <a href="https://www.lse.ac.uk/school-of-public-policy/people/Casey-Kearney">Casey Kearney</a>; funded by the LSE Eden Centre and the LSE Data Science Institute. Our first research cycle produced the <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674422">GENIAL Framework</a> from ChatGPT logs and Git histories. I am now using it in the new fellowship research cycle (2025–2027).</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr valign="top">
 <td width="28"><b>◎</b></td>
-<td><b>Teaching.</b> Associate Professor (Education) at the <a href="https://www.lse.ac.uk/methodology">Department of Methodology</a> as of August 2026. In 2026/27 I am shadowing Dr Stuart Bramwell on <a href="https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY202A.htm">MY202A</a> and building an AI tutor for self-study; in Winter Term I teach MY105W (Data for Data Science) and <a href="https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2026_MY481.htm">MY481 Generative AI for Social Science Research</a>. From 2022–2026 I convened <a href="https://lse-dsi.github.io/DS105/">DS105</a>, <a href="https://lse-dsi.github.io/DS205/">DS205</a>, and <a href="https://lse-dsi.github.io/ME204/">ME204</a> at the <a href="https://www.lse.ac.uk/DSI">LSE Data Science Institute</a> (those codes are now MY under Methodology). I also collaborated on the <a href="https://www.lse.ac.uk/study-at-lse/executive-education/programmes/ai-leadership-accelerator">AI Leadership Accelerator</a>.</td>
+<td><b>Teaching.</b> I am Associate Professor (Education) at the <a href="https://www.lse.ac.uk/methodology">Department of Methodology</a> as of August 2026. In 2026/27 I am shadowing Dr Stuart Bramwell on <a href="https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY202A.htm">MY202A</a> and building an AI tutor for self-study. In the Winter Term I am teaching MY105W (Data for Data Science) and <a href="https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2026_MY481.htm">MY481 Generative AI for Social Science Research</a>. From 2022 to 2026 I convened <a href="https://lse-dsi.github.io/DS105/">DS105</a>, <a href="https://lse-dsi.github.io/DS205/">DS205</a>, and <a href="https://lse-dsi.github.io/ME204/">ME204</a> at the <a href="https://www.lse.ac.uk/DSI">LSE Data Science Institute</a> (those codes are now MY under Methodology). I also collaborated on the <a href="https://www.lse.ac.uk/study-at-lse/executive-education/programmes/ai-leadership-accelerator">AI Leadership Accelerator</a>.</td>
 </tr>
 </table>
 
