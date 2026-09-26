@@ -1,29 +1,27 @@
 <!-- GitHub README: use HTML attributes (align, width, valign) and <font color>; inline style/class are stripped. Colours mirror scss/_tokens.scss and .genial-ia (#D55816) in scss/_site-landing.scss. -->
 
-<p><i>Searching for the texture of thought…</i></p>
-
 <h3>Dr Jon Cardoso-Silva</h3>
 
-<p>Assistant Professor (Education), Department of Methodology, <a href="https://www.lse.ac.uk/">LSE</a>.<br/>
-<sup>*</sup> <sup>Promoted to Associate Professor (Education) from August 2026.</sup></p>
+<p>Associate Professor (Education), <a href="https://www.lse.ac.uk/methodology">Department of Methodology</a>, <a href="https://www.lse.ac.uk/">LSE</a>.</p>
 
-<p>Data science education, generative AI in teaching, and research at LSE. I teach data science and study how students learn when generative AI is in the room.</p>
+<p>I teach data science at LSE and study how students learn when generative AI is in the room. That question drove the <b>GEN<font color="#D55816">IA</font>L</b> project, where my colleagues and I developed a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674422">diagnostic framework</a> from students' ChatGPT conversations and Git histories. I am one of LSE's fellows on the <a href="https://info.lse.ac.uk/staff/ESE/AI-Fellowships-call">AI in Education Fellowship</a>, building a <i>proactive</i> GenAI tutor that tracks where students are in the syllabus week by week and offers them different learning paths depending on what they need.</p>
 
 <p><sub><b>AI in Education Fellow</b> · 2025–2027</sub></p>
 
 <p>
 🌐<a href="https://jonjoncardoso.github.io"> Website </a>|
+📍<a href="https://jonjoncardoso.github.io/now.html"> Now </a>|
 💭<a href="https://jonjoncardoso.github.io/blog/">Blog</a>
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Generative_AI_in_Education-001360?style=flat-square" alt="Badge: Generative AI in Education" title="Generative AI in Education" />
 <img src="https://img.shields.io/badge/Data_Science_Education-a9371b?style=flat-square" alt="Badge: Data Science Education" title="Data Science Education" />
-<img src="https://img.shields.io/badge/Evidence--based_Teaching-fbbc38?style=flat-square&labelColor=2b1c00" alt="Badge: Evidence-based Teaching" title="Evidence-based Teaching" />
+<img src="https://img.shields.io/badge/Teaching_grounded_in_evidence-fbbc38?style=flat-square&labelColor=2b1c00" alt="Badge: Teaching grounded in evidence" title="Teaching grounded in evidence" />
 </p>
 
 <p align="left">
-<a href="https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg" width="26" height="26" alt="LSE staff profile" title="LSE staff profile" /></a>
+<a href="https://www.lse.ac.uk/methodology"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg" width="26" height="26" alt="LSE Department of Methodology" title="LSE Department of Methodology" /></a>
 &nbsp;
 <a href="https://jonjoncardoso.github.io"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png" width="24" height="24" alt="Personal website" title="Personal website" /></a>
 &nbsp;
@@ -45,17 +43,17 @@
 <table>
 <tr valign="top">
 <td width="28"><b>◎</b></td>
-<td><b>AI and Education Fellowship (2025–2027).</b> <a href="https://info.lse.ac.uk/staff/ESE/AI-Fellowships-call">Fellowship programme</a>: building a <i>proactive</i> GenAI tutor for <a href="https://lse-dsi.github.io/DS105/">DS105</a> with an XML-based skills taxonomy aligned to each week’s objectives. I tested a custom, temporally aware bot in 2025–26; I am now in initial data cleaning and analysis. From September to December 2026 (teaching buyout) I develop the proactive version, test it on <a href="https://lse-dsi.github.io/DS202/">DS202</a> in Autumn 2026/27, then deploy more fully in DS105 in Winter 2026/27 (Jan–Mar 2027).</td>
+<td><b>AI and Education Fellowship (2025–2027).</b> <a href="https://info.lse.ac.uk/staff/ESE/AI-Fellowships-call">Fellowship programme</a>: building a <i>proactive</i> GenAI tutor for <a href="https://lse-dsi.github.io/DS105/">MY105W</a> with an XML skills taxonomy aligned to each week’s objectives. I tested a custom, temporally aware bot in 2025–26 (<a href="https://jonjoncardoso.github.io/talks/2026-07-09-imperial-genai-shorts.html">Imperial GenAI Shorts talk</a>) and am in initial data cleaning and analysis. This Autumn Term (teaching buyout, Sep–Dec 2026) I develop the proactive version, test it first with <a href="https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY202A.htm">MY202A</a> students, then deploy more fully in MY105W in Winter 2026/27 (Jan–Mar 2027).</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr valign="top">
 <td width="28"><b>◎</b></td>
-<td><b>GEN<font color="#D55816">IA</font>L</b> (<a href="https://lse-dsi.github.io/genial">project site</a>). Co-led with <a href="https://marcosebarreto.github.io/">Marcos Barreto</a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/dsallai">Dorottya Sallai</a>, and <a href="https://www.lse.ac.uk/school-of-public-policy/people/Casey-Kearney">Casey Kearney</a>; funded by the LSE Eden Centre and the LSE Data Science Institute. Our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674422">GENIAL Framework</a> maps student–GenAI engagement from ChatGPT logs and Git histories onto Kolb’s experiential learning cycle. I am using it in the new fellowship research cycle (2025–2027).</td>
+<td><b>GEN<font color="#D55816">IA</font>L</b> (<a href="https://lse-dsi.github.io/genial">project site</a>). Led jointly with <a href="https://marcosebarreto.github.io/">Marcos Barreto</a>, <a href="https://www.lse.ac.uk/management/people/academic-staff/dsallai">Dorottya Sallai</a>, and <a href="https://www.lse.ac.uk/school-of-public-policy/people/Casey-Kearney">Casey Kearney</a>; funded by the LSE Eden Centre and the LSE Data Science Institute. Our <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674422">GENIAL Framework</a> maps student–GenAI engagement from ChatGPT logs and Git histories onto Kolb’s experiential learning cycle. I am using it in the new fellowship research cycle (2025–2027).</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr valign="top">
 <td width="28"><b>◎</b></td>
-<td><b>Teaching.</b> I convene <a href="https://lse-dsi.github.io/DS105/">DS105</a> (Data for Data Science), <a href="https://lse-dsi.github.io/DS205/">DS205</a> (Advanced Data Manipulation), and <a href="https://lse-dsi.github.io/ME204/">ME204</a> (Data Engineering for the Social World, summer school) at the <a href="https://www.lse.ac.uk/DSI">LSE Data Science Institute</a>. I also collaborated on the <a href="https://www.lse.ac.uk/study-at-lse/executive-education/programmes/ai-leadership-accelerator">AI Leadership Accelerator</a>.</td>
+<td><b>Teaching.</b> Associate Professor (Education) at the <a href="https://www.lse.ac.uk/methodology">Department of Methodology</a> as of August 2026. In 2026/27 I am shadowing Dr Stuart Bramwell on <a href="https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY202A.htm">MY202A</a> and building an AI tutor for self-study; in Winter Term I teach MY105W (Data for Data Science) and <a href="https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2026_MY481.htm">MY481 Generative AI for Social Science Research</a>. From 2022–2026 I convened <a href="https://lse-dsi.github.io/DS105/">DS105</a>, <a href="https://lse-dsi.github.io/DS205/">DS205</a>, and <a href="https://lse-dsi.github.io/ME204/">ME204</a> at the <a href="https://www.lse.ac.uk/DSI">LSE Data Science Institute</a> (those codes are now MY under Methodology). I also collaborated on the <a href="https://www.lse.ac.uk/study-at-lse/executive-education/programmes/ai-leadership-accelerator">AI Leadership Accelerator</a>.</td>
 </tr>
 </table>
 
@@ -65,4 +63,4 @@
 
 ---
 
-<p align="center"><sub>Inspired by the <a href="https://sive.rs/nowff">/now page</a> movement.</sub></p>
+<p align="center"><sub>Inspired by the <a href="https://sive.rs/nowff">/now page</a> movement. Full detail: <a href="https://jonjoncardoso.github.io/now.html">jonjoncardoso.github.io/now</a>.</sub></p>
