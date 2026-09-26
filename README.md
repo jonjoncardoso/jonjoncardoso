@@ -4,7 +4,9 @@
 
 <p>Associate Professor (Education), <a href="https://www.lse.ac.uk/methodology">Department of Methodology</a>, <a href="https://www.lse.ac.uk/">LSE</a>.</p>
 
-<p>I teach data science at LSE and study how students learn when generative AI is in the room. That question drove the <b>GEN<font color="#D55816">IA</font>L</b> project, where my colleagues and I developed a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674422">diagnostic framework</a> from students' ChatGPT conversations and Git histories. I am one of LSE's fellows on the <a href="https://info.lse.ac.uk/staff/ESE/AI-Fellowships-call">AI in Education Fellowship</a>, building a <i>proactive</i> GenAI tutor that tracks where students are in the syllabus week by week and offers them different learning paths depending on what they need.</p>
+<p>I teach data science at LSE and study how generative AI influences the way students self-study.
+With colleagues on <b>GEN<font color="#D55816">IA</font>L</b>, we produced a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5674422">diagnostic framework</a> from students' ChatGPT conversations and Git histories.
+I am one of LSE's fellows on the <a href="https://info.lse.ac.uk/staff/ESE/AI-Fellowships-call">AI in Education Fellowship</a>, building a <i>proactive</i> GenAI tutor that follows the syllabus week by week and offers different learning paths.</p>
 
 <p><sub><b>AI in Education Fellow</b> · 2025–2027</sub></p>
 
